@@ -62,7 +62,9 @@ cd ieee-cis-fraud-detection
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Download the dataset (see data/README.md) and place under data/
+# 3. Download the IEEE-CIS Fraud Detection dataset from Kaggle
+#    and place the CSV files in the data/ directory
+#    (see data/README.md)
 
 # 4. Launch the notebook
 jupyter notebook notebook/fraud_detection.ipynb
