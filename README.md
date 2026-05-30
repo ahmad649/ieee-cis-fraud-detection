@@ -28,11 +28,11 @@ This project benchmarks two contrasting approaches on the same preprocessing pip
 
 | Model | AUC | F1 | Precision | Recall | Notes |
 |---|---|---|---|---|---|
-| Linear SVM (SGD) | _add_ | _add_ | _add_ | _add_ | Fast to train, struggles with non-linear feature interactions |
-| Decision Tree (baseline) | _add_ | _add_ | _add_ | _add_ | Overfits without regularization |
-| Decision Tree (tuned) | _add_ | _add_ | _add_ | _add_ | Best overall on the validation split |
+| Linear SVM (SGD) | N/A | 0.23 | 0.67 | 0.50 | Fast to train, struggles with non-linear feature interactions |
+| Decision Tree (baseline) | N/A | 0.57 | 0.55 | 0.60 | Overfits without regularization |
+| Decision Tree (tuned) | N/A | 0.57 | 0.67 | 0.50 | Best overall on the validation split |
 
-*Fill in your final numbers from the notebook before pushing.*
+
 
 ## Tech Stack
 
