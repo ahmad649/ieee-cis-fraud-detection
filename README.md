@@ -77,7 +77,7 @@ jupyter notebook notebook/fraud_detection.ipynb
 ## Author
 
 Ahmad Hasan — Master of Applied Computer Science + Microprogram in Applied AI, Concordia University
-[LinkedIn](https://www.linkedin.com/in/ahmad-hasan5250/) · [GitHub](https://github.com/ahmad649)
+[LinkedIn](https://www.linkedin.com/in/ahmad-hasan-cs/) · [GitHub](https://github.com/ahmad649)
 
 ## License
 
